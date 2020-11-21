@@ -7,7 +7,7 @@
 - [x] 更新新的logo
 - [x] 添加查看每个月工作日
 
-[Calendar.dmg](https://github.com/daejong123/Calendar/releases)
+传送门：[Calendar.dmg](https://github.com/daejong123/Calendar/releases)
 
 ![预览图片](https://github.com/daejong123/Calendar/raw/master/new-calendar.png)
 
