@@ -9,6 +9,8 @@
 
 [Calendar.dmg](https://github.com/daejong123/Calendar/releases)
 
+![预览图片](https://github.com/daejong123/Calendar/raw/master/new-calendar.png)
+
 ![预览图片](https://github.com/daejong123/Calendar/raw/master/calendar.png)
 
 
